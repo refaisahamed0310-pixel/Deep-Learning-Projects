@@ -1,0 +1,60 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset folders and files
+data/
+datasets/
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Deep Learning model files
+*.h5
+*.keras
+*.hdf5
+*.pb
+*.tflite
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# TensorFlow checkpoints
+checkpoint/
+checkpoints/
+logs/
+tensorboard/
+
+# Generated outputs
+output/
+outputs/
+predictions/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
