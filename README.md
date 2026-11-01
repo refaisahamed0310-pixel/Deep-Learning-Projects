@@ -161,23 +161,23 @@ The projects provide practical exposure to the following concepts:
 ```text
 Deep-Learning-Projects/
 │
-├── Fruit-Image-Classification/
-│   └── fruit_classification.ipynb
-│
 ├── Beard-Detection/
-│   └── beard_detection.ipynb
+│   └── [Notebook].ipynb
 │
 ├── Brain-Tumor-Classification/
-│   └── brain_tumor_classification.ipynb
+│   └── [Notebook].ipynb
 │
 ├── Cat-Dog-Classification/
-│   └── cat_dog_classification.ipynb
-│
-├── Emotion-Classification/
-│   └── emotion_classification.ipynb
+│   └── [Notebook].ipynb
 │
 ├── Currency-Classification-Transfer-Learning/
-│   └── currency_classification.ipynb
+│   └── [Notebook].ipynb
+│
+├── Emotion-Classification/
+│   └── [Notebook].ipynb
+│
+├── Fruit-Image-Classification/
+│   └── [Notebook].ipynb
 │
 ├── README.md
 ├── requirements.txt
