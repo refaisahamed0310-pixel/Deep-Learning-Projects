@@ -16,6 +16,9 @@ scipy
 # ==========================================
 pillow
 opencv-python
+os
+random
+shutil
 
 # ==========================================
 # Data Visualization
