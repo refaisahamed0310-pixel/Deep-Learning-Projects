@@ -1,7 +1,36 @@
+# ==========================================
+# Deep Learning Framework
+# ==========================================
 tensorflow
+keras
+
+# ==========================================
+# Numerical Computing & Data Manipulation
+# ==========================================
 numpy
 pandas
-matplotlib
+scipy
+
+# ==========================================
+# Image Processing & Computer Vision
+# ==========================================
 pillow
+opencv-python
+
+# ==========================================
+# Data Visualization
+# ==========================================
+matplotlib
+seaborn
+
+# ==========================================
+# Machine Learning Utilities
+# ==========================================
+scikit-learn
+
+# ==========================================
+# Jupyter Notebook Environment
+# ==========================================
 jupyter
 notebook
+ipykernel
